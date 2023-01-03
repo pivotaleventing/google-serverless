@@ -11,7 +11,7 @@ To be able to follow these examples start by creating a new project in Google Cl
 
 ```
 gcloud auth login # this will open up a browser windows in which you need to login to your Google Cloud account
-gcloud projects create --name google-serverless # write down the project ID Google creates for you
+gcloud projects create --name serverless # write down the project ID Google creates for you
 gcloud config set project PROJECT_ID
 ```
 
